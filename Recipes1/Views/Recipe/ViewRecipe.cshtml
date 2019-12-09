@@ -1,0 +1,35 @@
+﻿@model Recipe
+
+<div class="panel-body, text-center">
+    <table class="table table-sm table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Recipe Name</th>
+                <th>Description</th>
+                <th>Ingredients</th>
+                <td>Action</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.Name</td>
+                <td>@Model.Description</td>
+                <td>@Model.Ingredients</td>
+                <td>
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" name="RecipeId" value="@Model.RecipeId" />
+                        <a asp-action="Edit" class="btn btn-sm btn-warning" asp-route-recipeID="@Model.RecipeId">
+                            Edit
+                        </a>
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class=" text-center">
+    <a asp-controller="Review" asp-action="List" class="btn btn-sm btn-warning" asp-route-recipeId="@Model.RecipeId">Reviews</a>
+    <a asp-controller="Review" asp-action="Review" class="btn btn-primary" asp-route-RecipeId="@Model.RecipeId">Add A Review</a>
+</div>
+

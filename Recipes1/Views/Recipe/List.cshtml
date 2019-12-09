@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Recipe>
+
+<div class="panel-body, text-center">
+    <h1>Recipe List</h1>
+    <table class="table table-sm table-striped table-bordered">
+        <tbody>
+            @foreach (Recipes.Models.Recipe r in Model)
+            {
+                <tr>
+                    <th>@r.Name</th>
+                    <td><a class="nav-link" asp-action="ViewRecipe" asp-route-id="@r.RecipeId">Details</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class=" text-center">
+    <a asp-action="AddRecipe" class="btn btn-primary">Add Recipe</a>
+</div>

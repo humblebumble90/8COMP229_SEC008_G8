@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Review>
+<div class="panel-body, text-center">
+    <h1>Reviews</h1>
+    <table class="table table-sm table-striped table-bordered">
+        <tbody>
+            <tr>
+                <th>Reviewer Name</th>
+                <th>Comments</th>
+                <th>Star Rating</th>
+            </tr>
+            @foreach (Recipes.Models.Review r in Model)
+            {
+                <tr>
+                    <td>@r.Name</td>
+                    <td>@r.Comments</td>
+                    <td>@r.Rating</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

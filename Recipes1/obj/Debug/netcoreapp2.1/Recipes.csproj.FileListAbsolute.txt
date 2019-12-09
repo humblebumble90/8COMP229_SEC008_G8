@@ -1,0 +1,127 @@
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csprojAssemblyReference.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfoInputs.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfo.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.deps.json
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.json
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.dev.json
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.dll
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.pdb
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.dll
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.pdb
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.input.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.output.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorCoreGenerate.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cache
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cs
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.Views.pdb
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.dll
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.pdb
+C:\Users\Dominic Lam\Documents\COMP229\Recipes1\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CopyComplete
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csprojAssemblyReference.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfoInputs.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfo.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.dll
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.pdb
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.deps.json
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.json
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.dev.json
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.dll
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.pdb
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.dll
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.pdb
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.input.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.output.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorCoreGenerate.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cache
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.Views.pdb
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CopyComplete
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddRecipeForm.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.deps.json
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.json
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.dev.json
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.dll
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.pdb
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.dll
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.pdb
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csprojAssemblyReference.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfoInputs.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfo.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.input.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.output.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorCoreGenerate.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddRecipeForm.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cache
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.Views.pdb
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.dll
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.pdb
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CopyComplete
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\Edit.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\List.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Review\List.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Review\Review.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Dominic Lam\Desktop\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.deps.json
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.json
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.runtimeconfig.dev.json
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.dll
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.pdb
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.dll
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\bin\Debug\netcoreapp2.1\Recipes.Views.pdb
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csprojAssemblyReference.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CoreCompileInputs.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorAssemblyInfo.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfoInputs.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.AssemblyInfo.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.input.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.TagHelpers.output.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorCoreGenerate.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\Edit.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\List.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Review\List.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Review\Review.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AddRecipeForm.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cache
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.RazorTargetAssemblyInfo.cs
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.Views.pdb
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.dll
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.pdb
+D:\College\Semester3\Developing web application\Assignments\Project\300980638 - Copy (2)\300980638 - Copy\Recipes1\obj\Debug\netcoreapp2.1\Recipes.csproj.CopyComplete
