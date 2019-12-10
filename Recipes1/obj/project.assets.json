@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\College\\Semester3\\Developing web application\\Assignments\\Project\\300980638 - Copy (2)\\300980638 - Copy\\Recipes1\\Recipes.csproj",
+      "projectUniqueName": "D:\\College\\Semester3\\Developing web application\\Assignments\\Project\\GitRepo\\Recipes1\\Recipes.csproj",
       "projectName": "Recipes",
-      "projectPath": "D:\\College\\Semester3\\Developing web application\\Assignments\\Project\\300980638 - Copy (2)\\300980638 - Copy\\Recipes1\\Recipes.csproj",
+      "projectPath": "D:\\College\\Semester3\\Developing web application\\Assignments\\Project\\GitRepo\\Recipes1\\Recipes.csproj",
       "packagesPath": "C:\\Users\\phillip\\.nuget\\packages\\",
-      "outputPath": "D:\\College\\Semester3\\Developing web application\\Assignments\\Project\\300980638 - Copy (2)\\300980638 - Copy\\Recipes1\\obj\\",
+      "outputPath": "D:\\College\\Semester3\\Developing web application\\Assignments\\Project\\GitRepo\\Recipes1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

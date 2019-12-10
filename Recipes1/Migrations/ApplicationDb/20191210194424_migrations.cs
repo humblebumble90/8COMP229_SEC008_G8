@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace Recipes.Migrations
+namespace Recipes.Migrations.ApplicationDb
 {
-    public partial class initial : Migration
+    public partial class migrations : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -28,8 +28,10 @@ namespace Recipes.Migrations
                 {
                     ReviewId = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
-                    Comments = table.Column<string>(nullable: true),
-                    Rating = table.Column<int>(nullable: false)
+                    Name = table.Column<string>(nullable: false),
+                    Comments = table.Column<string>(nullable: false),
+                    Rating = table.Column<int>(nullable: false),
+                    RecipeId = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
                 {
