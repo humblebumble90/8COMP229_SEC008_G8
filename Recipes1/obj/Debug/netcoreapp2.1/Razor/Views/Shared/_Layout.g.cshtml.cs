@@ -66,12 +66,12 @@ using Recipes.Models.ViewModels;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 234, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f51b1eb710e04f54a4a4e25ea9413ec9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a242c784526c40a7b89a12535aca2185", async() => {
                 BeginContext(33, 170, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Home Page</title>\r\n    <link rel=\"stylesheet\" href=\"/lib/bootstrap/css/bootstrap.min.css\" />\r\n    ");
                 EndContext();
                 BeginContext(203, 49, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "30084db0609f4b6db883920c5eff6570", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "51f772a81da646c5b35fc8cb38660511", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -105,12 +105,12 @@ using Recipes.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(263, 469, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a8c9eae50474d7cb8f8edf452273e6b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1ea9a36d4b04028bb6ff2f15331f640", async() => {
                 BeginContext(300, 24, true);
                 WriteLiteral("\r\n    <ul>\r\n        <li>");
                 EndContext();
                 BeginContext(324, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b46be8d21b843afb19435399b264af9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3d8f2ce6fae64df483796ddda0dba0d8", async() => {
                     BeginContext(363, 4, true);
                     WriteLiteral("Home");
                     EndContext();
@@ -133,7 +133,7 @@ using Recipes.Models.ViewModels;
                 WriteLiteral("</li>\r\n        <li>");
                 EndContext();
                 BeginContext(390, 76, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb066a7bed4e4218a9aac15004eb1643", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "388c78a5ee2d489cac60971460ae5f95", async() => {
                     BeginContext(452, 10, true);
                     WriteLiteral("Add Recipe");
                     EndContext();
@@ -158,7 +158,7 @@ using Recipes.Models.ViewModels;
                 WriteLiteral("</li>\r\n        <li>");
                 EndContext();
                 BeginContext(485, 77, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc80440e98944d24a7fed06fb4a98f27", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d61e08c410b94a049c7a216438114427", async() => {
                     BeginContext(547, 11, true);
                     WriteLiteral("Recipe List");
                     EndContext();
@@ -183,7 +183,7 @@ using Recipes.Models.ViewModels;
                 WriteLiteral("</li>\r\n        <li>");
                 EndContext();
                 BeginContext(581, 80, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51455e8a4978445bb1ef961d71ee46ad", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2cc5eacfba84ec589a18cecadf8be3c", async() => {
                     BeginContext(650, 7, true);
                     WriteLiteral("Log Out");
                     EndContext();

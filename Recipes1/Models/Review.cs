@@ -17,7 +17,7 @@ namespace Recipes.Models
         public string Comments { get; set; }
 
         [Required]
-        public string Rating { get; set; }
+        public int Rating { get; set; }
 
         public int RecipeId { get; set; }
     }

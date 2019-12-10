@@ -76,7 +76,7 @@ using Recipes.Models.ViewModels;
             WriteLiteral("</th>\r\n                    <td>");
             EndContext();
             BeginContext(333, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "76e9bec833c642139d09c3d096190767", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a4419829ef86462f9363e5083a3998a4", async() => {
                 BeginContext(404, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -120,7 +120,7 @@ using Recipes.Models.ViewModels;
             WriteLiteral("        </tbody>\r\n    </table>\r\n</div>\r\n\r\n<div class=\" text-center\">\r\n    ");
             EndContext();
             BeginContext(534, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d57cccc18e65443682502a8664a33d7a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "101ea2ff9505438f99a7d0c829255e02", async() => {
                 BeginContext(584, 10, true);
                 WriteLiteral("Add Recipe");
                 EndContext();

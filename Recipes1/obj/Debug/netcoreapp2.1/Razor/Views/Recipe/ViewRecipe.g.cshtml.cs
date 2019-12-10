@@ -106,7 +106,7 @@ using Recipes.Models.ViewModels;
             WriteLiteral("</td>\r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(545, 430, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5c4341e33e5d43c8abc031507a928e3a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0575e58dbd6d4babb8837d6d8b9e73fb", async() => {
                 BeginContext(585, 62, true);
                 WriteLiteral("\r\n                        <input type=\"hidden\" name=\"RecipeId\"");
                 EndContext();
@@ -121,7 +121,7 @@ WriteAttributeValue("", 655, Model.RecipeId, 655, 15, false);
                 WriteLiteral(" />\r\n                        ");
                 EndContext();
                 BeginContext(700, 153, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5440f0cc8214992a2e37ce252bc3104", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00a37059e6c945b582863c7187743459", async() => {
                     BeginContext(789, 60, true);
                     WriteLiteral("\r\n                            Edit\r\n                        ");
                     EndContext();
@@ -178,7 +178,7 @@ WriteAttributeValue("", 655, Model.RecipeId, 655, 15, false);
             WriteLiteral("\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n</div>\r\n<div class=\" text-center\">\r\n    ");
             EndContext();
             BeginContext(1091, 124, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ed751785cde44b9fbed2b567e0dd9526", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ed99013f9b149689ae8e9866b2321ef", async() => {
                 BeginContext(1204, 7, true);
                 WriteLiteral("Reviews");
                 EndContext();
@@ -216,7 +216,7 @@ WriteAttributeValue("", 655, Model.RecipeId, 655, 15, false);
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(1221, 124, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b59efc2c2e54898870342eed8bcdd82", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b3d27ca8ca1c40c3b7744496c1709a2b", async() => {
                 BeginContext(1329, 12, true);
                 WriteLiteral("Add A Review");
                 EndContext();
