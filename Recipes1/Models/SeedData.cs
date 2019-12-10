@@ -51,7 +51,7 @@ namespace Recipes.Models
                     {
                         Name = "Joe",
                         Comments = "Ok",
-                        Rating = "3 Stars",
+                        Rating = 3,
                         RecipeId = 1
                     },
 
@@ -59,7 +59,7 @@ namespace Recipes.Models
                     {
                         Name="Bob",
                         Comments = "Good",
-                        Rating = "5 Stars",
+                        Rating = 5,
                         RecipeId = 2
                     },
 
@@ -67,7 +67,7 @@ namespace Recipes.Models
                     {
                         Name = "User1",
                         Comments = "Good",
-                        Rating = "4 Stars",
+                        Rating = 4,
                         RecipeId = 3
                     }
                     );

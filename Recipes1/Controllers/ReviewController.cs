@@ -27,7 +27,7 @@ namespace Recipes.Controllers
         {
             review.RecipeId = RecipeId;
             repository.SaveReview(review);
-            return View("~/Views/Home/Index.cshtml");
+            return Redirect("List?recipeid= " + RecipeId);
         }
     }
 }

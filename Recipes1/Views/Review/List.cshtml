@@ -10,11 +10,17 @@
             </tr>
             @foreach (Recipes.Models.Review r in Model)
             {
-                <tr>
-                    <td>@r.Name</td>
-                    <td>@r.Comments</td>
-                    <td>@r.Rating</td>
-                </tr>
+            <tr>
+                <td>@r.Name</td>
+                <td>@r.Comments</td>
+                <td>
+                    @for (int i = 0; r.Rating > i; i++)
+                    {
+                        <img src="~/Images/star.jpg" width="10" height="10" />
+
+                    }
+                </td>
+</tr>
             }
         </tbody>
     </table>
