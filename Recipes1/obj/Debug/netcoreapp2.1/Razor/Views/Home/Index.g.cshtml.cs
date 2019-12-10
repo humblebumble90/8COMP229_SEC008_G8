@@ -56,7 +56,7 @@ using Recipes.Models.ViewModels;
             WriteLiteral("\r\n        <div class=\"text-center\">\r\n            <h2>Recipes</h2>\r\n            ");
             EndContext();
             BeginContext(109, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "40c9dec5c03c42afabf1904871b65b90", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6366603d91894b8b8f2176ae3256ba46", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
