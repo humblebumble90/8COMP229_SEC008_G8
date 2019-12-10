@@ -68,12 +68,6 @@ echo finished updating local repository
 pause
 goto end
 
-:end 
-cls
-set /p "stop=Continue?(y for yes. if yes input anything else)?"
-if %stop% == y (goto start) 
-else (stop)
-
 :push
 git pull origin master
 pause
@@ -86,3 +80,9 @@ set /p "password=What is your password?"
 git config --global user.email "%username%"
 git config --global user.password "%password%"
 goto end
+
+:end 
+cls
+set /p "stop=Continue?(y for yes. if yes input anything else)?"
+if %stop% == y (goto start) 
+else (stop)
